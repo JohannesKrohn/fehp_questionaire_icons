@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g fill="none" fill-rule="evenodd" transform="translate(4 2)">
+    <rect width="18" height="15" x="1" y="8" stroke="#FFF" stroke-width="2" rx="3"/>
+    <path stroke="#FFF" stroke-width="2" d="M9.669 7.968c5.33 0 5.33.233 5.33-1.09C15 5.554 15.117 0 9.955 0 4.794 0 5.03 5.463 5.03 6.878c0 1.414-.692 1.09 4.64 1.09z"/>
+    <circle cx="10" cy="14" r="2" fill="#FFF"/>
+    <polygon fill="#FFF" points="10 13 12 19 8 19"/>
+  </g>
+</svg>
